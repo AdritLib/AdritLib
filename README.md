@@ -1,8 +1,11 @@
-### Saludos!
-- Estoy llevando una carrera de tecnologías de la información
+>### Hola Mundo!
+> Soy Adrian, tengo 18 años, soy desarrollador web y programador Java
+> 
+> Estoy llevando una carrera de tecnologías de la información
 
 > [!NOTE]
 > Soy estudiante y por ello puedo estar o no disponible en ciertos momentos.
+
 <!--
 **AdritLib/AdritLib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
