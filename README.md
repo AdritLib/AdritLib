@@ -1,16 +1,13 @@
->### Hola Mundo!
-> Soy Adrian, tengo 18 años, soy desarrollador web y programador Java
+##            Bienvenido a mi perfil de GitHub!
+> Soy Adrian, tengo 18 años, estoy aprendiendo a ser desarrollador web y también programador en Java
 > 
 > Estoy llevando una carrera de tecnologías de la información
 
 > [!NOTE]
 > Soy estudiante y por ello puedo estar o no disponible en ciertos momentos.
 
+
 <!--
-**AdritLib/AdritLib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
