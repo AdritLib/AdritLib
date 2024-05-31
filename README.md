@@ -1,5 +1,5 @@
 ## Buenas! Soy Adrian, desarrollador web y programador en Java
-## Estoy llevando una carrera de tecnologías de la información
+- Estoy llevando una carrera de tecnologías de la información
 <!--
 **AdritLib/AdritLib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
