@@ -1,19 +1,22 @@
-##            Bienvenido a mi perfil de GitHub!
-> Soy Adrian, tengo 18 años, estoy aprendiendo a ser desarrollador web y también programador en Java
-> 
-> Estoy llevando una carrera de tecnologías de la información
+<h1 align="center">Bienvenido a mi perfil de Github</h1>
+<p align="center">Hola soy Adrian, tengo 18 años, estoy aprendiendo a ser desarrollador web y también ser programador en Java <br> Estoy llevando una carrera de tecnologías de la información</p>
+<p align="left">
+   
+  <p aling="left">
+    Tengo algo de experiencia usando las tecnologias de
+    <p>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="80" height="80">
+    </p>
+  </p>
+  <p align="left" style="color: red;">
+    Tengo un gran conocimiento sobre estas tecnologias
+    <p>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="64" height="64">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="64" height="64">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="64" height="64">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="64" height="64">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="64" height="64">
+    </p>
+  </p>
+</p>
 
-> [!NOTE]
-> Soy estudiante y por ello puedo estar o no disponible en ciertos momentos.
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
