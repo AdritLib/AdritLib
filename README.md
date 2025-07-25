@@ -10,7 +10,6 @@
     Uso estoy frameworks usualmente, por lo que estoy familiarizado:
     <p>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="64" height="64">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="64" height="64">
       <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="64" height="64">
     </p>
   </p>
@@ -34,6 +33,7 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="64" height="64">
        <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" width="64" height="64">
        <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="64" height="64">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="64" height="64">
     </p>
   </p>
 </p>
