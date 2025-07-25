@@ -1,6 +1,6 @@
-<h1 align="center">Bienvenido a mi GitHub</h1>
+<h1 align="left">Adrian Valentino Campos</h1>
 <p align="left">
-   Hola soy Adrian, tengo 19 años, y estoy aprendiendo a ser desarrollador web backend.<br>
+   Hola, bienvenido a mi perfil de GitHub, tengo 19 años, y estoy aprendiendo a ser desarrollador web backend.<br>
    Actualmente estoy llevando una carrera de tecnologías de la información como técnico profesional.<br>
    
    Pero aspiración es llegar a ser Ingeniero de software, y desarrollar proyectos avanzados y complejos que aporten a mi futuro profesional o de la sociedad.
