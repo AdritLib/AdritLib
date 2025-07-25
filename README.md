@@ -23,6 +23,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="64" height="64">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="64" height="64">
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="64" height="64">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="64" height="64">
     </p>
   </p>
 
@@ -30,6 +31,7 @@
     Tengo algo de experiencia usando las tecnologias de
     <p>
        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="64" height="64">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="64" height="64">
     </p>
   </p>
 </p>
